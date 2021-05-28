@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.imageview.ShapeableImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ivPopularMovies"
+    android:layout_width="280dp"
+    android:layout_height="157.5dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintCircleRadius="8dp"
+    app:layout_constraintDimensionRatio="H,16:9"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintWidth_percent="0.9"
+    tools:src="@drawable/ic_baseline_image_24" />

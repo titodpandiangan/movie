@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StickEarnMovieApps</string>
+    <string name="activity_home_movie_name">Movie</string>
+    <string name="activity_favorite_movie_name">Favorite Movies</string>
+    <string name="menu_favorite_name">Favorite</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated</string>
+    <string name="now_playing_movies">Now Playing</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="no_review">No review yet</string>
+    <string name="no_favorite_movies">You dont have favorite movie</string>
+    <string name="marked_favorite_movies">You marked this movie as your favorite</string>
+    <string name="unmarked_favorite_movies">You unmarked this movie as your favorite</string>
+    <string name="retry">retry</string>
+</resources>
