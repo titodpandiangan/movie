@@ -13,4 +13,6 @@
     <string name="marked_favorite_movies">You marked this movie as your favorite</string>
     <string name="unmarked_favorite_movies">You unmarked this movie as your favorite</string>
     <string name="retry">retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
